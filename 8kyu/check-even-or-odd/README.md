@@ -1,2 +1,2 @@
-Problem: check-even-or-odd
-Level: 8kyu
+Even or Odd
+Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
