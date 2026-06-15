@@ -1,14 +1,23 @@
 # Opposite Number
 
-- Rank: 8 kyu
-- Language: Java
-- Completed: 2026-06-15
+**Rank:** 8kyu  
+**Language:** Java  
+**Completed:** 2026-06-15  
+
+---
+
+## Problem
+Auto-generated Codewars template.
+
+---
 
 ## Solution
 
 ```java
-class Kata {
-    public static int opposite(int number) {
-        return -number;
+public class Kata {
+    public static int oppositenumber(int number) {
+        // TODO: implement
+        return int;
     }
 }
+```

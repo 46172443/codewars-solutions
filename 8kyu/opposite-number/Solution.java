@@ -1,5 +1,6 @@
-class Kata {
-    public static int opposite(int number) {
-        return -number;
+public class Kata {
+    public static int oppositenumber(int number) {
+        // TODO: implement
+        return int;
     }
 }
